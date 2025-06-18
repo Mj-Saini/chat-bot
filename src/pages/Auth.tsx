@@ -34,7 +34,7 @@ export default function Auth() {
               Intelligent conversations,{" "}
               <span className="gradient-text">reimagined</span>
             </h1>
-            <p className="text-lg text-gray-600 dark:text-muted-foreground max-w-lg mx-auto">
+            <p className="text-lg text-gray-600 dark:text-muted-foreground max-w-lg max-lg:mx-auto">
               Experience the future of AI-powered conversations with our
               advanced chatbot platform. Secure, intuitive, and designed for
               modern workflows.
